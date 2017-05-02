@@ -4,19 +4,19 @@ React ui dropdown
 
 ## How to install
 ```
-npm i react-ui-dropdown --save
+npm i react-dropdown-ui --save
 ```
 
 ## How to import
 For TypeScript usage there is a index.d.ts in node_modules folder
 ```typescript
-import {UIDropdown} from 'react-ui-dropdown';
+import {UIDropdown} from 'react-dropdown-ui';
 ```
 
 or
 
 ```javascript
-var UIDropdown = require('react-ui-dropdown');
+var UIDropdown = require('react-dropdown-ui);
 ```
 
 Also use css in a lib folder in: 

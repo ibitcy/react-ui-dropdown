@@ -1,5 +1,5 @@
 {
-	"name": "react-ui-dropdown",
+	"name": "react-dropdown-ui",
 	"description": "React ui dropdown component",
 	"version": "1.0.0",
 	"main": "index.js",
@@ -35,7 +35,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ibitcy/react-ui-dropdown.git"
+		"url": "https://github.com/ibitcy/react-ui-dropdown"
 	},
 	"dependencies": {
 	}
