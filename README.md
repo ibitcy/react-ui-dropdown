@@ -16,7 +16,7 @@ import {UIDropdown} from 'react-dropdown-ui';
 or
 
 ```javascript
-var UIDropdown = require('react-dropdown-ui);
+var UIDropdown = require('react-dropdown-ui');
 ```
 
 Also use css in a lib folder in: 
